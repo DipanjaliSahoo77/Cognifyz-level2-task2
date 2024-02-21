@@ -1,0 +1,20 @@
+.navbar_color {
+    background-color: #192c38;
+}
+
+.bgi_mage {
+    height: 100vh;
+    width: 100vw;
+}
+
+.nav_point {
+    font-weight: bold;
+    font-style: italic;
+    font-family: "cursive";
+}
+
+.nav_logo {
+    height: 20px;
+    width: 120px;
+
+}
